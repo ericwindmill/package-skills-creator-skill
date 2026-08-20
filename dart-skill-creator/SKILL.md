@@ -401,7 +401,6 @@ try {
 - DON'T create multiple client instances - reuse one instance
 - DON'T ignore onProgress callbacks - they're important for UX
 - DON'T catch generic Exception - use specific error types
-```
 
 **Step 4 - Test:**
 ```bash
