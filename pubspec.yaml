@@ -1,0 +1,6 @@
+name: package_skills_creator_skill
+description: >-
+  This pubspec exists so you can run `skills@ get`
+publish_to: none
+environment:
+  sdk: ^3.13.0-0
