@@ -161,7 +161,6 @@ try {
 Common mistakes:
 - DON'T do X - do Y instead
 - DON'T ignore Z - it causes problems because...
-```
 
 **This is a guide, not a rigid template.** Adapt the structure to your package. If your package doesn't have complex error handling, skip that section. If initialization is critical, emphasize it. Follow what makes sense for your specific case.
 
